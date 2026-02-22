@@ -1,0 +1,23 @@
+{
+  "name": "him-whatsapp-bridge",
+  "version": "1.0.0",
+  "description": "Pont entre whatsapp-web.js et HIM Agent Python",
+  "main": "whatsapp-bridge.js",
+  "scripts": {
+    "start": "node whatsapp-bridge.js",
+    "setup": "npm install"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.6.2"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "automation"
+  ],
+  "author": "HIM",
+  "license": "MIT"
+}
