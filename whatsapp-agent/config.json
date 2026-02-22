@@ -1,0 +1,20 @@
+{
+  "owner_name": "Williams",
+  "agent_name": "HIM",
+  "auto_reply": true,
+  "reply_delay": 5,
+  "away_message": "Salut c'est {agent}, {owner} n'est pas connecté en ce moment. Veuillez patientez un moment 😉",
+  "smart_reply": true,
+  "allowed_contacts": [],
+  "blocked_contacts": [],
+  "working_hours": {
+    "start": "09:00",
+    "end": "18:00"
+  },
+  "only_when_offline": true,
+  "webhook_url": null,
+  "notifications": {
+    "telegram": true,
+    "desktop": true
+  }
+}
