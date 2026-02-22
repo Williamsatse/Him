@@ -11,7 +11,7 @@
     "start": "09:00",
     "end": "18:00"
   },
-  "only_when_offline": true,
+  "only_when_offline": false,
   "webhook_url": null,
   "notifications": {
     "telegram": true,
